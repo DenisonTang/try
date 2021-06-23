@@ -1,14 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # try
 modified on local 
 modified
-王秋禹
+王秋禹英豪2222
+>>>>>>> 73644640cf7698fb386ebff8bf7a374ffe18ebdb
 jiangjing
 郭英豪
 
-郭英豪  
+  
 
 胡闯
 
 
->>>>>>> 33ad0ff40b8a78786fc6b3d3da7c6f18787131af
+<<<<<<< HEAD
+
+
+>>>>>>> 73644640cf7698fb386ebff8bf7a374ffe18ebdb
